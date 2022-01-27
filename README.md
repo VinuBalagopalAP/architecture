@@ -1,16 +1,14 @@
-# architecture
+# Architecture
 
-A new Flutter project.
+A sample architecture that we need to follow in the case of Text and Colors
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Color styling
+ ![Screenshot 2022-01-27 135645](https://user-images.githubusercontent.com/48175345/151320517-3f4abdac-b331-4e4b-abb7-6c545b809935.png)
 
-A few resources to get you started if this is your first Flutter project:
+* Text Styling
+  ![Screenshot 2022-01-27 135736](https://user-images.githubusercontent.com/48175345/151320633-bcf6ffd0-1a91-4fc9-bb0c-7d01c935b50d.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* BoxText Styling
+  ![Screenshot 2022-01-27 135815](https://user-images.githubusercontent.com/48175345/151320733-10b12384-0c98-4a78-8480-2b2c3f6389b5.png)
